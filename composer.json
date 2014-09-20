@@ -1,0 +1,15 @@
+{
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/vlapkostka/cli_test_package.git"
+		}
+
+	],
+
+	"require": {
+		"vlapkostka/cli_test_package": "*"
+	},
+
+    "minimum-stability": "dev"
+}
